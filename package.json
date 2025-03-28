@@ -91,7 +91,7 @@
     "sitemap": "1.13.0",
     "style-loader": "^4.0.0",
     "stylelint": "15.11.0",
-    "stylelint-formatter-pretty": "1.0.3",
+    "stylelint-formatter-pretty": "4.0.1",
     "stylelint-selector-bem-pattern": "3.0.1",
     "svgo": "3.2.0",
     "terser-webpack-plugin": "5.1.1",
